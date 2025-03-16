@@ -3,3 +3,5 @@ pypdf2
 pillow
 werkzeug
 pymupdf
+pytesseract
+opencv-python
